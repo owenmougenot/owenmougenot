@@ -9,6 +9,7 @@ je suis ici dans le but de partage mon evolution ainsi que pour partage de proje
 The Skilli Learn 
 
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm#inbox/FMfcgzGlkPWCrGJvhzFTtCrcwgCFsQKq)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
