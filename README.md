@@ -13,16 +13,18 @@ The Skilli Learn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmougenot)](https://github.com/owenmougenot/github-readme-stats)
 
-Social
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=owen.m@institutsolacroup.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owenmougenot)
 
 Hobby:
 - Surf
 - Skate
 - Hardware
 - Cuisine 
+
+
+Social
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=owen.m@institutsolacroup.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owenmougenot)
 
 
 
