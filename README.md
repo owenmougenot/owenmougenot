@@ -11,6 +11,12 @@ The Skilli Learn
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm#inbox/FMfcgzGlkPWCrGJvhzFTtCrcwgCFsQKq)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmougenot)](https://github.com/owenmougenot/github-readme-stats)
+
+Social
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm#inbox/FMfcgzGlkPWCrGJvhzFTtCrcwgCFsQKq)
+
 
 
 
